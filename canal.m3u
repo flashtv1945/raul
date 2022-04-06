@@ -1,0 +1,280 @@
+#EXTM3U
+#EXTINF:0,RADIO SAN BORJA | PE
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:0,TIGO SPORTS
+#EXTGRP:unsorted
+http://latinosiptv.online:8090/notocar/xmauc84bx1/38976
+#EXTINF:0,PE|  GOL PERU HD
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/226713
+#EXTINF:0,PE| MOVISTAR DEPORTES
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/264713
+#EXTINF:0,PE| LATINA HD
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/264790
+#EXTINF:0,PE| AMERICA TV PE HD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/199968
+#EXTINF:0,PE| PANAMERICANA HD
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/1346
+#EXTINF:0,PE| RPP
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10633
+#EXTINF:0,PE| CANAL N
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10625
+#EXTINF:0,TV PERU | PE
+#EXTGRP:unsorted
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,TV Perú NOTICIAS | PE
+#EXTGRP:unsorted
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,CANAL IPE | PE
+#EXTGRP:unsorted
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:0,PE| ATV HD
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/1348
+#EXTINF:0,ATV+ NOTICIAS | PE
+#EXTGRP:unsorted
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:0,PE| EXITOSA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10642
+#EXTINF:0,UCI NOTICIAS | PE
+#EXTGRP:unsorted
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:0,OVACION | PE
+#EXTGRP:unsorted
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,GENIOS TV | PE
+#EXTGRP:unsorted
+https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+#EXTINF:0,TV CUZCO | PE
+#EXTGRP:unsorted
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:0,BHTV | PE
+#EXTGRP:unsorted
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,KBO QUILLABAMBA | PE
+#EXTGRP:unsorted
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+#EXTINF:0,LIMA LIVE TV | PE
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:0,RETROPLUS MOVIES | PE
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:0,RADIO ORBIT TV | PE
+#EXTGRP:unsorted
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV COSMOS| PE
+#EXTGRP:unsorted
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
+#EXTINF:0,MATICES TV | PE
+#EXTGRP:unsorted
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:0,CINE HD| HBO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154113
+#EXTINF:0,CINE HD| HBO 2
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155165
+#EXTINF:0,CINE HD| HBO +
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154115
+#EXTINF:0,CINE HD| HBO SIGNATURE
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155170
+#EXTINF:0,CINE HD| HBO FAMILY
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155166
+#EXTINF:0,CINE HD| HBO MUNDI
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155167
+#EXTINF:0,CINE HD| HBO POP
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155168
+#EXTINF:0,CINE HD| AMC
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148717
+#EXTINF:0,CINE HD| CINECANAL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154085
+#EXTINF:0,CINE HQ| CINEMAX
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154086
+#EXTINF:0,CINE| PÁNICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155171
+#EXTINF:0,CINE HD| PARAMOUNT CHANNEL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155172
+#EXTINF:0,CINE HD| GOLDEN
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154110
+#EXTINF:0,CINE HD| GOLDEN EDGE
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154111
+#EXTINF:0,CINE HD| GOLDEN PLUS
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154112
+#EXTINF:0,CINE HD| GOLDEN PREMIER
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/200946
+#EXTINF:0,CINE HD| FXM
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154108
+#EXTINF:0,CINE HD| CINE DINAMITA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/197237
+#EXTINF:0,CINE HD| DHE
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/153478
+#EXTINF:0,CINE HD| TNT
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155177
+#EXTINF:0,CINE JIM CARREY
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/2090941
+#EXTINF:0,CINE Fantasía
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/203984
+#EXTINF:0,CINE Romance
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/203983
+#EXTINF:0,CINE HD| DPELICULAS
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154096
+#EXTINF:0,CINE HD| DPELICULAS PLUS
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/154096
+#EXTINF:0,CINE HD| STAR CHANNEL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148723
+#EXTINF:0,CINE HD| WARNER CHANNEL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148810
+#EXTINF:0,CINE HD| A&E
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10546
+#EXTINF:0,CINE HD| SONY
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148806
+#EXTINF:0,CINE HD| SPACE
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155173
+#EXTINF:0,CINE HD| AXN
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148718
+#EXTINF:0,CINE HD| COMEDY CENTRAL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148720
+#EXTINF:0,CINE HD| FILM & ART
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10876
+#EXTINF:0,CINE HD| SYFY
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155175
+#EXTINF:0,CINE HD| STUDIO UNIVERSAL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155174
+#EXTINF:0,CINE HD| TNT SERIES
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10578
+#EXTINF:0,CINE HD| UNIVERSAL CHANNEL
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155179
+#EXTINF:0,CINE HD| FX
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/148725
+#EXTINF:0,CINE HQ| LIFE TIME
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/187635
+#EXTINF:0,Afizzionados MEXICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155471
+#EXTINF:0,D| Caza y pesca ESPAÑA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/158477
+#EXTINF:0,D| DIRECTV SPORTS LATINOAMERICA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/203185
+#EXTINF:0,D| Fox Sports 1 MEXICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10953
+#EXTINF:0,Fox Sports 1 ARGENTINA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10959
+#EXTINF:0,D| Fox Sports 2 ARGENTINA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10957
+#EXTINF:0,D| Fox Sports 2 MEXICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155649
+#EXTINF:0,D| Fox Sports 3 MEXICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155650
+#EXTINF:0,D| Fox Sports 3 ARGENTINA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/183214
+#EXTINF:0,D| FOX Sports Premium
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/195840
+#EXTINF:0,D| Liga de Campeones HD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/157372
+#EXTINF:0,D| MLB Network HD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/210252
+#EXTINF:0,D| Movistar F1 HD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/170225
+#EXTINF:0,D| TUDN HQ
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155675
+#EXTINF:0,D| TUDN US HD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/169243
+#EXTINF:0,D| Espn ARGENTINA
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/202064
+#EXTINF:0,D| Espn MEXICO
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10963
+#EXTINF:0,D| Espn 2 | COL FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/181351
+#EXTINF:0,D| Espn 2 | MX FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10962
+#EXTINF:0,D| Espn 3 | ARG FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/181349
+#EXTINF:0,D| Espn 3 | MX FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/155475
+#EXTINF:0,D| Espn EXTRA FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/181378
+#EXTINF:0,D| Espn Plus | MX FHD
+#EXTGRP:unsorted
+http://l3d.us:8080/85mega2022/mfJY73aKn8hm/10964
+#EXTINF:0,UFC FIGHT
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/1262
+#EXTINF:0,UFC Fightpass
+#EXTGRP:unsorted
+http://51.222.43.170:36995/Prox912/WUWNXNYtr2mQ/267193
+#EXTINF:0,Red Bull TV
+#EXTGRP:unsorted
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,NASA TV Media
+#EXTGRP:unsorted
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:0,NASA TV Public
+#EXTGRP:unsorted
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
